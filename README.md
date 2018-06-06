@@ -1,4 +1,4 @@
-## Welcome to RTL Nederland GitHub Pages
+## RTL Nederland Technology Blog
 
 [post](docs/example.md)
 
